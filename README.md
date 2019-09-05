@@ -5,15 +5,8 @@ ESP8266 based  Homekit controller for WS2812B lightstrips
 <br/>
 <br/>
 
-For **Build Instructions** please read the [Wiki](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Build-Instructions) page!
+For **Build Instructions** please read the [Build Instructions](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Build-Instructions) Wiki page!
 
-<br/>
-<br/>
-
-For any other information please read the [Wiki](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki) page!
-
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
