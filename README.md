@@ -1,7 +1,7 @@
 ### Homekit WS2812B controller
 ESP8266 based  Homekit controller for WS2812B lightstrips
 ------
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
