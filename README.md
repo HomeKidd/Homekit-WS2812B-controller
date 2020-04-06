@@ -16,7 +16,7 @@ For **Usage** please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS
 
 * Color and Brightness
 * Power button
-* Custom characteristic setting WS2812B pixel count from 5 to 500 _(only in 3rd party HomeKit apps!)_
+* Custom characteristic setting [WS2812B LED strip](http://s.click.aliexpress.com/e/OKwJeTQ) pixel count from 5 to 500 _(only in 3rd party HomeKit apps!)_
 * Downloadable User Manual _(via Eve app)_ 
 * Reset button 
 * ~~Changing Default Color on startup~~ _(not implemented yet)_
