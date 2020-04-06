@@ -10,8 +10,17 @@ ESP8266 based  Homekit controller for WS2812B lightstrips
 <br/>
 <br/>
 
+For **Usage** please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/)!<br/><br/>
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Build-Instructions) Wiki page!<br/><br/>
+**Features:**
+
+* Color and Brightness
+* Power button
+* Custom characteristic setting WS2812B pixel count from 5 to 500 _(only in 3rd party HomeKit apps!)_
+* Downloadable User Manual _(via Eve app)_ 
+* Reset button 
+* ~~Changing Default Color on startup~~ _(not implemented yet)_
+* ~~Changing Color Transition time~~ _(not implemented yet)_
 
 **Demo:**
 
