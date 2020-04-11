@@ -15,8 +15,9 @@ For **Usage** please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS
 **Features:**
 
 * Color and Brightness
-* Power button
+* WS2812B [Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_
 * Custom characteristic for setting [WS2812B LED count](http://s.click.aliexpress.com/e/OKwJeTQ) from 5 to 500 _(only in 3rd party HomeKit apps!)_
+* Power button
 * Downloadable User Manual _(via Eve app)_ 
 * Reset button 
 * ~~Changing Default Color on startup~~ _(not implemented yet)_
