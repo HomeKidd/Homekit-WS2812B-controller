@@ -13,14 +13,17 @@ For **Usage** please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS
 
 **Features:**
 
-* Color and Brightness
-* WS2812B [Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_
+* Change Color
+* Change Brightness
+* Change Color Temperature _(not perfect, but no RGBW strip required)_
+* WS2812B [Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) **_(beta!!!)_**
 * Custom characteristic for setting [WS2812B LED count](http://s.click.aliexpress.com/e/OKwJeTQ) from 5 to 500 _(only in 3rd party HomeKit apps!)_
 * Power button
 * Downloadable User Manual _(via Eve app)_ 
 * Reset button 
 * ~~Changing Default Color on startup~~ _(not implemented yet)_
 * ~~Changing Color Transition time~~ _(not implemented yet)_
+* ~~OTA firmware update~~ _(not implemented yet)_
 
 **Demo:**
 
@@ -41,4 +44,4 @@ Although already forbidden by the sources and subsequent licensing, it is not al
 
 ###### The HomeKit Accessory Protocol Specification (Non-Commercial Version) can be downloaded from the [HomeKit Apple Developer page.](https://developer.apple.com/homekit/)
 
-###### Copyright © 2019 Apple Inc. All rights reserved.
+###### Copyright © 2020 Apple Inc. All rights reserved.
