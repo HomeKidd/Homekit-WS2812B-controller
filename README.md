@@ -16,7 +16,7 @@ For **Usage** please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS
 * Change Color
 * Change Brightness
 * Change Color Temperature _(not perfect, but no RGBW strip required)_
-* **WS2812B [Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_**
+* **WS2812FX [Light Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_**
 * Custom characteristic for setting [WS2812B LED count](http://s.click.aliexpress.com/e/OKwJeTQ) from 5 to 500 _(only in 3rd party HomeKit apps!)_
 * Power button
 * Downloadable User Manual _(via Eve app)_ 
