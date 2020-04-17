@@ -1,7 +1,11 @@
 # Comment to a new issue.
 issuesOpened: >
-  Thank you for raising an issue. We will try and get back to you as soon as possible.
-
+  Thank you for raising an issue and helping me out with finding bugs or requesting new features. 
+  We will try and get back to you as soon as possible.
+  
+  Until that You might find the solution in the [Wiki page](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki) or maybe find others facing the same issue as You in the [Closed Issues](https://github.com/HomeKidd/Homekit-WS2812B-controller/issues?q=is%3Aissue+is%3Aclosed)!
+  
 issuesReopened: >
   We will try and get back to you as soon as possible.
   
+  Until that You might find the solution in [Closed Issues](https://github.com/HomeKidd/Homekit-WS2812B-controller/issues?q=is%3Aissue+is%3Aclosed)!
