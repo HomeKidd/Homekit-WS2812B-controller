@@ -17,13 +17,12 @@ ESP8266 based  Homekit controller for WS2812B lightstrips
 * Change Brightness
 * Change Color Temperature _(not perfect, but no RGBW strip required)_
 * **WS2812FX [Light Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_**
-* Setting [WS2812B LED count](http://s.click.aliexpress.com/e/OKwJeTQ) on first boot from 1 to 500
+* Setting up [WS2812B LED count](http://s.click.aliexpress.com/e/OKwJeTQ) _(on first boot from 1 to 500)_
 * Power Behaviour characteristic _(Default Color / Last Used on startup via Eve app)_
 * Transition characteristic _(Quick / Default / Moderate / Calm via Eve app)_
-* Child Lock _(locks the single/double/triple press)_
+* Child Lock _(Enable/Disable button press via Eve app)_
 * Downloadable User Manual _(via Eve app)_ 
-* Power button
-* Reset button 
+* Power / Reset button
 * ~~OTA firmware update~~ _(not implemented yet)_
 
 **Demo:**
