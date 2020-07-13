@@ -11,6 +11,8 @@
 
 ## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/)!
 
+### Also available for Normal RGB(W) LED strip which you can find [here](https://github.com/HomeKidd/HomeKit-MagicHome-LED-controller-Elgato-Eve-Light-Strip)! 🤓
+
 **Features:**
 
 * Change Color
