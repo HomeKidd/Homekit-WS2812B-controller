@@ -15,9 +15,8 @@
 
 **Features:**
 
-* Change Color
-* Change Brightness
-* Change Color Temperature _(not perfect, but no RGBW strip required)_
+* **Change Color / Brightness / Color Temperature**
+* ~~[HomeKit Adaptive Lighting](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#adaptive-lighting)~~
 * **WS2812FX [Light Effects](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Effects) _(beta!!!)_**
 * Setting up [WS2812B LED count](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#wi-fi-setup) _(on first boot from 1 to 500)_
 * [Power Behaviour](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Default Color / Last Used on startup via Eve app)_
